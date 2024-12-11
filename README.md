@@ -15,4 +15,4 @@ This repository contains scripts to:
 - `Extraction&Vizualisation_of_Image.ipynb`: Jupyter notebooks for analysis and visualization.
 - `output/`: Stores the extracted pixel data (CSV) and visual outputs.
 - `image_sonification.ipynb`: Sonifies the CSV file using 3 mapping techniques.
-- `Sonification_Output`: Contains the audio files generated.
+- `Sonification_Output/`: Contains the audio files generated.
